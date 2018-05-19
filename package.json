@@ -17,9 +17,13 @@
   },
   "homepage": "https://github.com/thereisnowinter/Natours#readme",
   "devDependencies": {
-    "node-sass": "^4.9.0"
+    "autoprefixer": "^8.5.0",
+    "browserslist": "> 1%",
+    "concat": "^1.0.3",
+    "node-sass": "^4.9.0",
+    "postcss-cli": "^5.0.0"
   },
   "dependencies": {
-    "hoek": "^5.0.3"
+    "hoek": "^5.0.3"  
   }
 }
